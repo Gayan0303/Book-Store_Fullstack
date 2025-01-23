@@ -1,2 +1,2 @@
-Website Deployed at
+Project Deployed at
   https://book-store-fullstack.vercel.app/
